@@ -81,6 +81,7 @@ Step 2: Create two Virtual Machines in Azure
 
 
 *Note: Ensure VM1 and VM2 are in the same region/ location
+
 ![image](https://github.com/user-attachments/assets/ce102413-8c1f-4d13-be05-5cbf7e396fe3)
 
 
