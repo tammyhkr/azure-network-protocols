@@ -182,7 +182,8 @@ Step 4: Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubunt
 
 ![image](https://github.com/user-attachments/assets/2d3f4de4-b444-4a36-b7b5-da8d6d44225b)
 
-![image](https://github.com/user-attachments/assets/7c87b0be-3902-42b9-b5a7-f9ac7b6c7514)
+![image](https://github.com/user-attachments/assets/5acc3f10-ddb8-46cc-b3df-dfc09e53c8d7)
+
 
 ![image](https://github.com/user-attachments/assets/10735a5b-363d-4c7f-ac58-2410ef198c00)
 
